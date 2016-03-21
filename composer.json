@@ -15,7 +15,7 @@
     },
     "autoload" : {
       "psr-4" : {
-        "digitalmonk\\widgets\\ToggleWidget" : ""
+        "digitalmonk\\widgets\\ToggleWidget\\" : ""
       }
     }
 }
