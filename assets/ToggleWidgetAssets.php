@@ -5,7 +5,7 @@
  * @time: 15:24
  */
 
-namespace digitalmonk\widgets\ToggleWidget;
+namespace digitalmonk\widgets\ToggleWidget\assets;
 use yii\web\AssetBundle;
 
 class ToggleWidgetAssets extends AssetBundle{
