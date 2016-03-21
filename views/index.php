@@ -4,7 +4,7 @@
  * @date: 05.02.16
  * @time: 15:23
  */
-\digitalmonk\widgets\ToggleWidget\ToggleWidgetAssets::register($this);
+\digitalmonk\widgets\ToggleWidget\assets\ToggleWidgetAssets::register($this);
 
 ?>
 
