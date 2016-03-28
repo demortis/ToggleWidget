@@ -15,4 +15,8 @@ class ToggleWidgetAssets extends AssetBundle{
     public $css = [
         'css/style.css'
     ];
+
+    public $publishOptions = [
+        'forceCopy' => YII_DEBUG
+    ];
 }
