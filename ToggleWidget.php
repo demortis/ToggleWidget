@@ -57,6 +57,7 @@ class ToggleWidget extends InputWidget{
         $defaultOptions = [
             'id' => $this->id,
             'class' => $this->class,
+            'checked' => (boolean)$this->model->{$this->attribute}
         ];
 
         $this->options = array_merge($this->options, $defaultOptions);
